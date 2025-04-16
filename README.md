@@ -7,4 +7,6 @@ Updated semi-daily.
 * Direct: https://raw.githubusercontent.com/theouterspaced/blocklist/main/malicious-ip-list.txt
 * Mirror: https://kevinmarx.org/malicious-ip-list.txt
 
-Note: This list is provided as-is. I provide no assurances or accept any responsibility for any outcomes of using it.
+~
+
+Note: This list is provided as-is. I provide no assurances or accept any responsibility for any outcomes of its use.
