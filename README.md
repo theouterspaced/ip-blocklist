@@ -4,7 +4,7 @@ High confidence bad IPs that have attacked or phished my personal infrastructure
 Updated semi-daily.
 
 #### Download:
-* Direct: https://raw.githubusercontent.com/theouterspaced/blocklist/main/malicious-ip-list.txt
+* Direct: https://raw.githubusercontent.com/theouterspaced/ip-blocklist/main/malicious-ip-list.txt
 * Mirror: https://kevinmarx.org/malicious-ip-list.txt
 
 ~
