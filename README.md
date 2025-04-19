@@ -1,7 +1,7 @@
 ## Malicious IP List
 High confidence bad IPs that have attacked or phished my personal infrastructure recently.
 
-Updated semi-daily.
+Updated daily.
 
 #### Download:
 * Direct: https://raw.githubusercontent.com/theouterspaced/ip-blocklist/main/malicious-ip-list.txt
