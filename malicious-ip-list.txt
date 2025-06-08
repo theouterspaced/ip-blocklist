@@ -1,6 +1,6 @@
 # https://kevinmarx.org/malicious-ip-list.txt
 # IPs that have attacked or phished recently.
-# Sat Jun  7 23:22:20 UTC 2025
+# Sun Jun  8 20:13:37 UTC 2025
 ####
 115.231.78.12
 115.231.78.15
@@ -16,6 +16,7 @@
 147.45.112.185
 147.45.112.187
 147.45.112.188
+162.216.149.154
 162.216.149.241
 162.216.150.79
 162.216.150.89
