@@ -9,4 +9,4 @@ Updated daily.
 
 ~
 
-Note: This list is provided as-is. I provide no assurances or accept any responsibility for any outcomes of its use.
+Note: This list is provided as-is. I provide no assurances nor accept any responsibility for any outcomes of its use.
