@@ -1,5 +1,5 @@
 ## Malicious IP List
-High confidence bad IPs that have attacked or phished my personal infrastructure recently.
+High confidence bad IPs that have recently attacked or phished my personal infrastructure.
 
 Updated daily.
 
