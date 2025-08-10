@@ -1,7 +1,7 @@
 ## Malicious IP List
 Bad IPs that have recently attacked or phished my personal infrastructure.
 
-Updated daily.
+Updated regularly.
 
 #### Download:
 * Direct: https://kevinmarx.org/malicious-ip-list.txt
