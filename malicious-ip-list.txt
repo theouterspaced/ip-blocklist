@@ -1,4 +1,4 @@
-# Thu Oct 16 20:58:31 UTC 2025
+# Sat Oct 25 08:31:27 UTC 2025
 # Bad IPs that have recently attacked or phished my personal infrastructure.
 # kevinmarx.org/malicious-ip-list.txt
 # github.com/theouterspaced/ip-blocklist
@@ -306,6 +306,12 @@
 88.214.25.125
 89.248.163.194
 89.248.163.97
+91.231.222.167
+91.231.222.168
+91.231.222.170
+91.231.222.171
+91.231.222.172
+91.231.222.173
 91.238.181.91
 91.238.181.92
 91.238.181.93
