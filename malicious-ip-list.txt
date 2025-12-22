@@ -1,4 +1,4 @@
-# Mon Dec 22 04:45:30 UTC 2025
+# Mon Dec 22 18:27:30 UTC 2025
 # Bad IPs that have recently attacked or phished my personal infrastructure.
 # kevinmarx.org/malicious-ip-list.txt
 # github.com/theouterspaced/ip-blocklist
