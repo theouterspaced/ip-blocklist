@@ -1,4 +1,4 @@
-# Fri Mar 27 05:07:39 UTC 2026
+# Tue Mar 31 14:28:05 UTC 2026
 # Bad IPs that have recently attacked or phished my personal infrastructure.
 # kevinmarx.org/malicious-ip-list.txt
 # github.com/theouterspaced/ip-blocklist
@@ -32,6 +32,7 @@
 168.227.211.1
 168.227.211.23
 168.227.211.234
+180.153.37.18
 180.158.214.144
 180.95.152.53
 183.17.237.49
@@ -60,8 +61,10 @@
 206.123.145.76
 206.123.145.77
 206.123.145.78
+206.123.145.79
 218.89.61.27
 218.92.102.178
+222.132.191.133
 222.162.70.67
 223.215.160.122
 39.130.38.102
