@@ -1,4 +1,4 @@
-# Sun Apr 19 15:07:08 UTC 2026
+# Sun Apr 26 19:24:12 UTC 2026
 # Bad IPs that have recently attacked or phished my personal infrastructure.
 # kevinmarx.org/malicious-ip-list.txt
 # github.com/theouterspaced/ip-blocklist
