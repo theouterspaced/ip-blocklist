@@ -1,4 +1,4 @@
-# Mon Sep  7 02:25:48 UTC 2026
+# Fri Sep 11 14:13:22 UTC 2026
 # Bad IPs that have recently attacked or phished my personal infrastructure.
 # kevinmarx.org/malicious-ip-list.txt
 # github.com/theouterspaced/ip-blocklist
