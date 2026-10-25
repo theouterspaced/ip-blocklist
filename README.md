@@ -1,11 +1,15 @@
-## Malicious IP List
-Bad IPs that have recently attacked or phished my personal infrastructure.
+# This repo is now defunct and only remains for historical reasons.
 
-Updated regularly.
+~
+
+## ARCHIVED - Malicious IP List
+BAn archived, bad IPs that have attacked or phished my personal infrastructure.
+
+Updated never.
 
 #### Download:
-* Direct: https://kevinmarx.org/malicious-ip-list.txt
-* GitHub: https://raw.githubusercontent.com/theouterspaced/ip-blocklist/main/malicious-ip-list.txt
+* Direct: /defunct/
+* GitHub: /defunct/
 
 ~
 
